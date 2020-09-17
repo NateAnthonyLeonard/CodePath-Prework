@@ -1,4 +1,4 @@
-# Pre-work - *Prject Tip Calculator*
+# Pre-work - *Project Tip Calculator*
 
 **Project Tip Calculator** is a tip calculator application for iOS.
 
